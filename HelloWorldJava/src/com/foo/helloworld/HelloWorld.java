@@ -6,7 +6,7 @@ public class HelloWorld {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("HelloWorld.main() - 444");
+		System.out.println("HelloWorld.main()");
 	}
 
 }
